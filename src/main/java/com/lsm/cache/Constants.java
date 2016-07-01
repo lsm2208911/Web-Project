@@ -7,10 +7,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-/**
- * @author zx
- *         on 16-4-7.
- */
+
 public class Constants {
     private static final Logger LOGGER = LoggerFactory.getLogger(Constants.class);
     private static Properties properties;
