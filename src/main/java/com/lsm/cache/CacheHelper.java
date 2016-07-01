@@ -10,10 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author zx
- *         on 16-4-7.
- */
+
 public class CacheHelper
 {
     private static final Logger LOGGER= LoggerFactory.getLogger(CacheHelper.class);
