@@ -1,9 +1,5 @@
 package com.lsm.cache;
 
-/**
- * @author zx
- *         on 16-4-26.
- */
 public enum EntityType implements EnumInteger
 {
 		UserLocalCats(Constants.CACHE_USER_LOCAL_CATS),//REDIS USER CATS
